@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 #caminho da imagem
-imagePath = './rock.jpg'
+imagePath = 'rock.jpg'
 
 #link para a imagem utilizar - https://www.jbtc.com/foodtech/wp-content/uploads/sites/2/2021/08/Fruit-Vegetable-Processing.jpg
 
